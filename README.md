@@ -1,4 +1,4 @@
-# Amazon Consumer Behaviour EDA 📦📊
+# Amazon Consumer Behaviour EDA 📊
 
 A comprehensive **Exploratory Data Analysis (EDA)** on Amazon consumer behaviour using Python, Pandas, Plotly, Seaborn, and Matplotlib to uncover insights across the customer journey - from browsing to purchase, satisfaction, and retention.
 
